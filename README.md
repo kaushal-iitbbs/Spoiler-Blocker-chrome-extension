@@ -3,12 +3,6 @@
 
 This extension will save you from reading any Game Of Thrones Spoilers as well as visual images. <br/>
 
-This extension is developed by **Rachit**, a Software Engineer who is making world a better place by uploading videos on YouTube about his career choices, cool web projects, programming, data structures, algorithms, and more!  <br/>
-
-> ## Never Under Estimate the power of a Frustrated Software Developer
-
-I am not an expert with Google Chrome Development and this is my first extension made ever. 
-
 <img src="how-it-works.png" alt="drawing" width="450"/> 
 
 # Features
@@ -34,6 +28,3 @@ When I created this extension, its purpose was:
 - To solve the problem of spoilers as a Software Developer
 - To learn how to creat kick-ass Chrome Extensions
 
-# Can I contribute?
-Ofcourse! I will be shocked to see a notification saying `User {xyz} created a Pull Request.` <br/>
-I promise to approve the PR first, and only then review it.
