@@ -1,4 +1,4 @@
-[![demo](https://img.shields.io/badge/view%20demo-youtube-orange.svg?style=for-the-badge&logo=appveyor)](https://www.youtube.com/watch?v=GzWeRfytGpE) 
+
 # :sparkles: GoT: Hide That Spoiler - Chrome Extension <img src="icon-stark.png" alt="🐺" width="64"/>
 
 This extension will save you from reading any Game Of Thrones Spoilers as well as visual images. <br/>
