@@ -3,7 +3,7 @@
 
 This extension will save you from reading any Avengers Spoilers as well as visual images. <br/>
 
-<img src="how-it-works.png" alt="drawing" width="450"/> 
+ 
 
 # Features
 - **Spoiler Blocking**: Searches entire web page and replaces Spoilers with text `##[TEXT BLOCKED: SPOILER DETECTED]`
