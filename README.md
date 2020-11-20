@@ -1,7 +1,7 @@
 
-# :sparkles: GoT: Hide That Spoiler - Chrome Extension <img src="icon-stark.png" alt="🐺" width="64"/>
+# :sparkles: Avengers: Hide That Spoiler - Chrome Extension <img src="icon-avengers.png" alt="🐺" width="64"/>
 
-This extension will save you from reading any Game Of Thrones Spoilers as well as visual images. <br/>
+This extension will save you from reading any Avengers Spoilers as well as visual images. <br/>
 
 <img src="how-it-works.png" alt="drawing" width="450"/> 
 
@@ -19,12 +19,12 @@ This extension will save you from reading any Game Of Thrones Spoilers as well a
 - Go to `chrome://extensions`
 - Click on `Load Unpacked` which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
-- An icon <img src="icon-stark.png" alt="🐺" width="64"/> should appear besides your Chrome Search bar.
-- That's all :D Try opening any [Game of Thrones Spoiler](https://www.google.com/search?ei=ubSxXMO5HY7Y0wKQ8J-ICQ&q=game+of+thrones+spoilers+list&oq=game+of+thrones+spoilers+list&gs_l=psy-ab.3...1044.1447..1643...0.0..0.175.802.0j5......0....1..gws-wiz.dqbPZYkKiHY) page to enjoy the blocking power.
+- An icon <img src="icon-avengers.png" alt="🐺" width="64"/> should appear besides your Chrome Search bar.
+- That's all :D 
 
 # Why this Chrome Extension exists?
 When I created this extension, its purpose was: 
-- An attempt to save myself from GoT (Game of Thrones) spoilers 
+- An attempt to save myself from Avengers spoilers 
 - To solve the problem of spoilers as a Software Developer
 - To learn how to creat kick-ass Chrome Extensions
 
