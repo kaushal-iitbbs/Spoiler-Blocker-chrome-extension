@@ -1,4 +1,4 @@
-kw = ['GOT', 'game of thrones', 'got spoiler', 'GoT', 'GOT Spoiler', 'Game of Thrones', 'GAME OF THRONES', 'death', 'DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED']
+kw = ['Avengers', 'avengers', 'END GAME', 'SPIDER MAN', 'IRON MAN', 'Iron Man', 'Captain America', 'Black Panther', 'Tony stark', 'endgame', 'thor', 'Thor', 'Chris Hemsworth','Avengers','Endgame','Iron Man','Captain America','Thanos','Hawkeye','Black Widow','Infinity Stone','Infinity Gauntlet','Spider Man','War Machine','Hulk','Black Panther','Nick Fury','Captain Marvel','Starlord','Gamora','Drax','Rocket','Groot']
 tags = "SPANEMBIULOLI";
 total = 0;
 
