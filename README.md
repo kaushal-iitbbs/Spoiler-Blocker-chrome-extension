@@ -1,5 +1,5 @@
 
-# :sparkles: Avengers: Hide That Spoiler - Chrome Extension <img src="icon-avengers.png" alt="🐺" width="64"/>
+# :sparkles: Avengers: Hide That Spoiler - Chrome Extension <img src="icon-avengers.jpg" alt="🐺" width="64"/>
 
 This extension will save you from reading any Avengers Spoilers as well as visual images. <br/>
 
@@ -19,7 +19,7 @@ This extension will save you from reading any Avengers Spoilers as well as visua
 - Go to `chrome://extensions`
 - Click on `Load Unpacked` which you can see in the top left side.
 - Select the path where you cloned/downloaded this project.
-- An icon <img src="icon-avengers.png" alt="🐺" width="64"/> should appear besides your Chrome Search bar.
+- An icon <img src="icon-avengers.jpg" alt="🐺" width="64"/> should appear besides your Chrome Search bar.
 - That's all :D 
 
 # Why this Chrome Extension exists?
